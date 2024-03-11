@@ -6,6 +6,9 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CJNM4YGNIHJ6TIJT4GQXMFS4SDHI5NKL$nome=MESTRES DO AR EP.3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z2HDUTQKP3ZXWWYYILC36LWRRCY5L5JC$nome=MESTRES DO AR EP.4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XPG6S34WTZOHV2DWBJHPTUJHY7C7XJAM$nome=MESTRES DO AR EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UAXJ6EOJYI3IFT5BNZECVVS6HBK5ND44$nome=MESTRES DO AR EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4BKQPTT6XI5YN5HI3UEJYZP7TE6XG7O$nome=MESTRES DO AR EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZHK7TKQMI577GFG6QCR4QK4WCYFOZGIP$nome=MESTRES DO AR EP.8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/jM8VipSula8bZq9B3IrHAzWDhpg.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Cinco milhas acima da terra e bem atrás das linhas inimigas, onze homens dentro de um bombardeiro conhecido como a Fortaleza Voadora lutam por suas vidas contra enxames de combatentes alemães inimigos. À medida que os bombardeiros americanos são pegos um por um, sua missão se torna muito clara: sobreviver.</info>
